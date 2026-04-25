@@ -40,7 +40,7 @@ A collection of Python exercises and mini-projects completed as part of the **"1
 | 13 | Debugging (print, debugger, error types) | Debugging exercises |
 | 14 | Higher-order data, comparisons | Higher or Lower Game |
 | 15 | Modelling a problem with code | Coffee Machine |
-| 16 – 100 | *(redirect — rest of days not included here)* | — |
+| 16 – 30 | *(redirect — rest of days not included here)* | — |
 
 ---
 
@@ -99,6 +99,4 @@ python main.py
 
 ## Notes
 
-- `Lab_24/main.py` and `Lab_26/main.py` are **empty** (0 bytes) — these are unfinished placeholders.
-- `Lab_28_30/` contains only a `pyproject.toml`; the actual completed code lives in `Lab28_30/`.
 - Turtle and Tkinter projects open a graphical window — run them in an environment with display support (not a headless server).
